@@ -116,7 +116,7 @@ b, strong {
 }
 
 .animated-item {
-  color: #ffc200;
+  color: #ADD8E6;
 }
 
 .animated-item {
@@ -130,6 +130,7 @@ b, strong {
   right: 0;
   left: 0;
   animation: BottomTotop 6s linear infinite 0s;
+  width: 150px;
 }
 .animated-item:nth-child(2n+2) {
   animation-delay: 2s;
