@@ -116,11 +116,11 @@ b, strong {
 }
 
 .animated-item {
-  color: #ADD8E6;
+  color: #add8e6;
 }
 
 .animated-item {
-  font-size: 38px;
+  font-size: 29px;
   line-height: inherit;
   display: block;
   opacity: 0;
@@ -130,7 +130,6 @@ b, strong {
   right: 0;
   left: 0;
   animation: BottomTotop 6s linear infinite 0s;
-  width: 150px;
 }
 .animated-item:nth-child(2n+2) {
   animation-delay: 2s;
