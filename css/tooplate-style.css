@@ -130,7 +130,7 @@ b, strong {
   right: 0;
   left: 0;
   animation: BottomTotop 6s linear infinite 0s;
-  width: 150px;
+  width: 300px;
 }
 .animated-item:nth-child(2n+2) {
   animation-delay: 2s;
